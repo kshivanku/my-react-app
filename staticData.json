@@ -1,0 +1,52 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "Adaptive Layouts with CSS Grid",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "Interactions and Animations",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "SVG Animation",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "Components and Props",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "States and Events",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "Styled Components",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "Static Data with JSON",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "GraphQL with Contentful",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "Publish to Netlify",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        },
+        {
+            "title": "Payments with Stripe",
+            "image": "https://raw.githubusercontent.com/kshivanku/my-react-app/master/src/images/logo-react.png"
+        }
+    ]
+}

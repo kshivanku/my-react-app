@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Design+Code 3',
+    description: 'Complete courses about the best tools and design systems.',
+    keywords: 'react course, react for designers'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
